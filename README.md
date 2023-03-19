@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **programming or 3D Stuffs**
 
-- 📫 How to reach me **jehoiakimtaenigra@gmail.com**
+- 📫 How to reach me **jehoiakimtaniegra@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jehoiakim1010/](https://www.linkedin.com/in/jehoiakim1010/)
 
