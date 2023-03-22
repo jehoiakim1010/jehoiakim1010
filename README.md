@@ -43,6 +43,10 @@
 <img src="https://www.svgrepo.com/show/373617/gamemaker.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
 
+<p align="left">
+<a href="https://twitter.com/jehoiakim1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jehoiakim1010" height="30" width="40" /></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jehoiakim1010&show_icons=true&locale=en&layout=compact" alt="jehoiakim1010" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jehoiakim1010&show_icons=true&locale=en" alt="jehoiakim1010" /></p>
