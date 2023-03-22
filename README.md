@@ -44,6 +44,9 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jehoiakim1010&show_icons=true&locale=en&layout=compact" alt="jehoiakim1010" /></p>
-
+<p>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d76aaaf5c0ce3a8b6108656af6a0c8ebe258b309af1e570225027db634d00936/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7365696a6976313326"><img align="center" src="https://camo.githubusercontent.com/d76aaaf5c0ce3a8b6108656af6a0c8ebe258b309af1e570225027db634d00936/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7365696a6976313326" alt="seijiv13" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=seijiv13&amp;" style="max-width: 100%;"></a>
+<img align="center" src="https://camo.githubusercontent.com/d76aaaf5c0ce3a8b6108656af6a0c8ebe258b309af1e570225027db634d00936/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7365696a6976313326" alt="seijiv13" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=seijiv13&amp;" style="max-width: 100%;">
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jehoiakim1010&show_icons=true&locale=en" alt="jehoiakim1010" /></p>
 
