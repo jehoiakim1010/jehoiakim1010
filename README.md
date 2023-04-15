@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehoiakim1010&label=Profile%20views&color=0e75b6&style=flat" alt="jehoiakim1010" /> </p>
 
-- 🔭 I’m currently working on **Soul And Tales**
+- 🔭 I’m currently working on **Life's Adventure**
 
 - 🌱 I’m currently learning **AI, and some 3D Stuffs**
 
