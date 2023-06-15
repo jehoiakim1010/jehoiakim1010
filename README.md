@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jehoiakim Taniegra</h1>
-<h3 align="center">A passionate Indie Game Developer And Full-Time 3D Artist from Philippines</h3>
+<h3 align="center">Indie Game Developer And 3D Artist from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehoiakim1010&label=Profile%20views&color=0e75b6&style=flat" alt="jehoiakim1010" /> </p>
 
